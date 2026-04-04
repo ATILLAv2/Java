@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tasks>
+            
+    
+    <task>
+                        
+        
+        <title>Сделать домашнее задание</title>
+                        
+        
+        <priority>Высокий</priority>
+                        
+        
+        <date>10.01.2026</date>
+                    
+    
+    </task>
+            
+    
+    <task>
+                        
+        
+        <title>Купить продукты</title>
+                        
+        
+        <priority>Средний</priority>
+                        
+        
+        <date>15.02.2026</date>
+                    
+    
+    </task>
+            
+    
+    <task>
+                        
+        
+        <title>Позвонить родителям</title>
+                        
+        
+        <priority>Низкий</priority>
+                        
+        
+        <date>28.03.2026</date>
+                    
+    
+    </task>
+            
+    
+    <task>
+                        
+        
+        <title>Подготовить презентацию</title>
+                        
+        
+        <priority>Высокий</priority>
+                        
+        
+        <date>04.04.2026</date>
+                    
+    
+    </task>
+        
+
+</tasks>

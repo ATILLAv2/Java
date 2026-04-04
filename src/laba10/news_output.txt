@@ -1,0 +1,480 @@
+Новость 1
+Заголовок: Show HN: A game where you build a GPU
+Дата: 1 hour ago
+Новость 2
+Заголовок: Scientists capture how cells trigger inflammation
+Дата: 39 minutes ago
+Новость 3
+Заголовок: Simple self-distillation improves code generation
+Дата: 8 hours ago
+Новость 4
+Заголовок: Show HN: TurboQuant-WASM – Google's vector quantization in the browser
+Дата: 3 hours ago
+Новость 5
+Заголовок: Show HN: sllm – Split a GPU node with other developers, unlimited tokens
+Дата: 3 hours ago
+Новость 6
+Заголовок: Apple approves driver that lets Nvidia eGPUs work with Arm Macs
+Дата: 2 hours ago
+Новость 7
+Заголовок: Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+Дата: 19 hours ago
+Новость 8
+Заголовок: Some Unusual Trees
+Дата: 9 hours ago
+Новость 9
+Заголовок: Author of "Careless People" banned from saying anything negative about Meta
+Дата: 3 hours ago
+Новость 10
+Заголовок: Components of a Coding Agent
+Дата: 5 hours ago
+Новость 11
+Заголовок: Artemis II crew take “spectacular” image of Earth
+Дата: 22 hours ago
+Новость 12
+Заголовок: 12,000 AI-generated blog posts added in a single commit
+Дата: 1 hour ago
+Новость 13
+Заголовок: Show HN: Running local OpenClaw together with remote agents in an open network
+Дата: 37 minutes ago
+Новость 14
+Заголовок: Notes from from Butterick's Practical Typography
+Дата: 1 hour ago
+Новость 15
+Заголовок: Training mRNA Language Models Across 25 Species for $165
+Дата: 5 hours ago
+Новость 16
+Заголовок: The Indie Internet Index – submit your favorite sites
+Дата: 4 hours ago
+Новость 17
+Заголовок: The Cathedral, the Bazaar, and the Winchester Mystery House
+Дата: 8 hours ago
+Новость 18
+Заголовок: Mbodi AI (YC P25) Is Hiring
+Дата: 6 hours ago
+Новость 19
+Заголовок: US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war
+Дата: 30 minutes ago
+Новость 20
+Заголовок: Claude Code Found a Linux Vulnerability Hidden for 23 Years
+Дата: 18 hours ago
+Новость 1
+Заголовок: Show HN: A game where you build a GPU
+Дата: 1 hour ago
+Новость 2
+Заголовок: Scientists capture how cells trigger inflammation
+Дата: 39 minutes ago
+Новость 3
+Заголовок: Simple self-distillation improves code generation
+Дата: 8 hours ago
+Новость 4
+Заголовок: Show HN: TurboQuant-WASM – Google's vector quantization in the browser
+Дата: 3 hours ago
+Новость 5
+Заголовок: Show HN: sllm – Split a GPU node with other developers, unlimited tokens
+Дата: 3 hours ago
+Новость 6
+Заголовок: Apple approves driver that lets Nvidia eGPUs work with Arm Macs
+Дата: 2 hours ago
+Новость 7
+Заголовок: Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+Дата: 19 hours ago
+Новость 8
+Заголовок: Some Unusual Trees
+Дата: 9 hours ago
+Новость 9
+Заголовок: Author of "Careless People" banned from saying anything negative about Meta
+Дата: 3 hours ago
+Новость 10
+Заголовок: Components of a Coding Agent
+Дата: 5 hours ago
+Новость 11
+Заголовок: Artemis II crew take “spectacular” image of Earth
+Дата: 22 hours ago
+Новость 12
+Заголовок: 12,000 AI-generated blog posts added in a single commit
+Дата: 1 hour ago
+Новость 13
+Заголовок: Show HN: Running local OpenClaw together with remote agents in an open network
+Дата: 37 minutes ago
+Новость 14
+Заголовок: Notes from from Butterick's Practical Typography
+Дата: 1 hour ago
+Новость 15
+Заголовок: Training mRNA Language Models Across 25 Species for $165
+Дата: 5 hours ago
+Новость 16
+Заголовок: The Indie Internet Index – submit your favorite sites
+Дата: 4 hours ago
+Новость 17
+Заголовок: The Cathedral, the Bazaar, and the Winchester Mystery House
+Дата: 8 hours ago
+Новость 18
+Заголовок: Mbodi AI (YC P25) Is Hiring
+Дата: 6 hours ago
+Новость 19
+Заголовок: US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war
+Дата: 30 minutes ago
+Новость 20
+Заголовок: Claude Code Found a Linux Vulnerability Hidden for 23 Years
+Дата: 18 hours ago
+Новость 21
+Заголовок: Electrical Transformer Manufacturing Is Throttling the Electrified Future
+Дата: 4 hours ago
+Новость 22
+Заголовок: Why the Most Valuable Things You Know Are Things You Cannot Say
+Дата: 1 hour ago
+Новость 23
+Заголовок: What life looks like on the most remote inhabited island
+Дата: 2 hours ago
+Новость 24
+Заголовок: When legal sports betting surges, so do Americans' financial problems
+Дата: 3 hours ago
+Новость 25
+Заголовок: Iran's Network of Cameras Bolsters Air Defenses, Expert Says
+Дата: 1 hour ago
+Новость 26
+Заголовок: The most-disliked people in the publishing industry
+Дата: 10 hours ago
+Новость 27
+Заголовок: OpenClaw privilege escalation vulnerability
+Дата: 1 day ago
+Новость 28
+Заголовок: iNaturalist
+Дата: 1 day ago
+Новость 29
+Заголовок: Astronomers Find a Third Galaxy Missing Its Dark Matter
+Дата: 1 hour ago
+Новость 30
+Заголовок: Herbie: Automatically improve imprecise floating point formulas
+Дата: 18 hours ago
+Новость 1
+Заголовок: Show HN: A game where you build a GPU
+Дата: 1 hour ago
+Новость 2
+Заголовок: Scientists capture how cells trigger inflammation
+Дата: 43 minutes ago
+Новость 3
+Заголовок: Simple self-distillation improves code generation
+Дата: 8 hours ago
+Новость 4
+Заголовок: Show HN: TurboQuant-WASM – Google's vector quantization in the browser
+Дата: 3 hours ago
+Новость 5
+Заголовок: Show HN: sllm – Split a GPU node with other developers, unlimited tokens
+Дата: 3 hours ago
+Новость 6
+Заголовок: Apple approves driver that lets Nvidia eGPUs work with Arm Macs
+Дата: 2 hours ago
+Новость 7
+Заголовок: Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+Дата: 19 hours ago
+Новость 8
+Заголовок: Author of "Careless People" banned from saying anything negative about Meta
+Дата: 3 hours ago
+Новость 9
+Заголовок: Some Unusual Trees
+Дата: 9 hours ago
+Новость 10
+Заголовок: Components of a Coding Agent
+Дата: 5 hours ago
+Новость 11
+Заголовок: 12,000 AI-generated blog posts added in a single commit
+Дата: 1 hour ago
+Новость 12
+Заголовок: Artemis II crew take “spectacular” image of Earth
+Дата: 23 hours ago
+Новость 13
+Заголовок: Show HN: Running local OpenClaw together with remote agents in an open network
+Дата: 41 minutes ago
+Новость 14
+Заголовок: Training mRNA Language Models Across 25 Species for $165
+Дата: 5 hours ago
+Новость 15
+Заголовок: US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war
+Дата: 34 minutes ago
+Новость 16
+Заголовок: Notes from from Butterick's Practical Typography
+Дата: 1 hour ago
+Новость 17
+Заголовок: Plague Ships
+Дата: 1 hour ago
+Новость 18
+Заголовок: The Indie Internet Index – submit your favorite sites
+Дата: 4 hours ago
+Новость 19
+Заголовок: Mbodi AI (YC P25) Is Hiring
+Дата: 6 hours ago
+Новость 20
+Заголовок: The Cathedral, the Bazaar, and the Winchester Mystery House
+Дата: 8 hours ago
+Новость 21
+Заголовок: Claude Code Found a Linux Vulnerability Hidden for 23 Years
+Дата: 18 hours ago
+Новость 22
+Заголовок: Electrical Transformer Manufacturing Is Throttling the Electrified Future
+Дата: 4 hours ago
+Новость 23
+Заголовок: Why the Most Valuable Things You Know Are Things You Cannot Say
+Дата: 1 hour ago
+Новость 24
+Заголовок: Iran's Network of Cameras Bolsters Air Defenses, Expert Says
+Дата: 1 hour ago
+Новость 25
+Заголовок: What life looks like on the most remote inhabited island
+Дата: 2 hours ago
+Новость 26
+Заголовок: When legal sports betting surges, so do Americans' financial problems
+Дата: 3 hours ago
+Новость 27
+Заголовок: The most-disliked people in the publishing industry
+Дата: 10 hours ago
+Новость 28
+Заголовок: OpenClaw privilege escalation vulnerability
+Дата: 1 day ago
+Новость 29
+Заголовок: iNaturalist
+Дата: 1 day ago
+Новость 30
+Заголовок: Deafness reversed: One injection restores hearing in just weeks – ScienceDaily
+Дата: 1 hour ago
+Новость 1
+Заголовок: Show HN: A game where you build a GPU
+Дата: 1 hour ago
+
+Новость 2
+Заголовок: Simple self-distillation improves code generation
+Дата: 8 hours ago
+
+Новость 3
+Заголовок: Show HN: TurboQuant-WASM – Google's vector quantization in the browser
+Дата: 3 hours ago
+
+Новость 4
+Заголовок: Scientists capture how cells trigger inflammation
+Дата: 45 minutes ago
+
+Новость 5
+Заголовок: Show HN: sllm – Split a GPU node with other developers, unlimited tokens
+Дата: 3 hours ago
+
+Новость 6
+Заголовок: Apple approves driver that lets Nvidia eGPUs work with Arm Macs
+Дата: 2 hours ago
+
+Новость 7
+Заголовок: Author of "Careless People" banned from saying anything negative about Meta
+Дата: 3 hours ago
+
+Новость 8
+Заголовок: Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+Дата: 19 hours ago
+
+Новость 9
+Заголовок: Some Unusual Trees
+Дата: 9 hours ago
+
+Новость 10
+Заголовок: Components of a Coding Agent
+Дата: 5 hours ago
+
+Новость 11
+Заголовок: 12,000 AI-generated blog posts added in a single commit
+Дата: 1 hour ago
+
+Новость 12
+Заголовок: Artemis II crew take “spectacular” image of Earth
+Дата: 23 hours ago
+
+Новость 13
+Заголовок: Show HN: Running local OpenClaw together with remote agents in an open network
+Дата: 43 minutes ago
+
+Новость 14
+Заголовок: Training mRNA Language Models Across 25 Species for $165
+Дата: 5 hours ago
+
+Новость 15
+Заголовок: US deploying nearly all stealthy long-range JASSM-ER cruise missiles to Iran war
+Дата: 36 minutes ago
+
+Новость 16
+Заголовок: Notes from from Butterick's Practical Typography
+Дата: 1 hour ago
+
+Новость 17
+Заголовок: Plague Ships
+Дата: 1 hour ago
+
+Новость 18
+Заголовок: The Indie Internet Index – submit your favorite sites
+Дата: 4 hours ago
+
+Новость 19
+Заголовок: Mbodi AI (YC P25) Is Hiring
+Дата: 6 hours ago
+
+Новость 20
+Заголовок: The Cathedral, the Bazaar, and the Winchester Mystery House
+Дата: 8 hours ago
+
+Новость 21
+Заголовок: Claude Code Found a Linux Vulnerability Hidden for 23 Years
+Дата: 18 hours ago
+
+Новость 22
+Заголовок: Electrical Transformer Manufacturing Is Throttling the Electrified Future
+Дата: 4 hours ago
+
+Новость 23
+Заголовок: Why the Most Valuable Things You Know Are Things You Cannot Say
+Дата: 1 hour ago
+
+Новость 24
+Заголовок: Iran's Network of Cameras Bolsters Air Defenses, Expert Says
+Дата: 1 hour ago
+
+Новость 25
+Заголовок: When legal sports betting surges, so do Americans' financial problems
+Дата: 3 hours ago
+
+Новость 26
+Заголовок: The most-disliked people in the publishing industry
+Дата: 10 hours ago
+
+Новость 27
+Заголовок: What life looks like on the most remote inhabited island
+Дата: 2 hours ago
+
+Новость 28
+Заголовок: OpenClaw privilege escalation vulnerability
+Дата: 1 day ago
+
+Новость 29
+Заголовок: iNaturalist
+Дата: 1 day ago
+
+Новость 30
+Заголовок: Deafness reversed: One injection restores hearing in just weeks – ScienceDaily
+Дата: 1 hour ago
+
+Новость 1
+Заголовок: Show HN: A game where you build a GPU
+Дата: 3 hours ago
+
+Новость 2
+Заголовок: Sopwith
+Дата: 1 hour ago
+
+Новость 3
+Заголовок: Embarrassingly simple self-distillation improves code generation
+Дата: 9 hours ago
+
+Новость 4
+Заголовок: Show HN: TurboQuant-WASM – Google's vector quantization in the browser
+Дата: 5 hours ago
+
+Новость 5
+Заголовок: Show HN: sllm – Split a GPU node with other developers, unlimited tokens
+Дата: 4 hours ago
+
+Новость 6
+Заголовок: Apple approves driver that lets Nvidia eGPUs work with Arm Macs
+Дата: 3 hours ago
+
+Новость 7
+Заголовок: Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw
+Дата: 21 hours ago
+
+Новость 8
+Заголовок: Author of "Careless People" banned from saying anything negative about Meta
+Дата: 5 hours ago
+
+Новость 9
+Заголовок: Plague Ships
+Дата: 2 hours ago
+
+Новость 10
+Заголовок: Scientists observe an immune signaling complex forming inside cells
+Дата: 2 hours ago
+
+Новость 11
+Заголовок: Some Unusual Trees
+Дата: 11 hours ago
+
+Новость 12
+Заголовок: Artemis II crew take “spectacular” image of Earth
+Дата: 1 day ago
+
+Новость 13
+Заголовок: Components of a Coding Agent
+Дата: 6 hours ago
+
+Новость 14
+Заголовок: Emotion concepts and their function in a large language model
+Дата: 12 hours ago
+
+Новость 15
+Заголовок: Training mRNA Language Models Across 25 Species for $165
+Дата: 7 hours ago
+
+Новость 16
+Заголовок: The CMS is dead, long live the CMS
+Дата: 8 hours ago
+
+Новость 17
+Заголовок: The Indie Internet Index – submit your favorite sites
+Дата: 5 hours ago
+
+Новость 18
+Заголовок: Electrical Transformer Manufacturing Is Throttling the Electrified Future
+Дата: 5 hours ago
+
+Новость 19
+Заголовок: The Cathedral, the Bazaar, and the Winchester Mystery House
+Дата: 10 hours ago
+
+Новость 20
+Заголовок: Mbodi AI (YC P25) Is Hiring
+Дата: 8 hours ago
+
+Новость 21
+Заголовок: Claude Code Found a Linux Vulnerability Hidden for 23 Years
+Дата: 20 hours ago
+
+Новость 22
+Заголовок: Why the most valuable things you know are things you cannot say
+Дата: 3 hours ago
+
+Новость 23
+Заголовок: Notes from from Butterick's Practical Typography
+Дата: 3 hours ago
+
+Новость 24
+Заголовок: When legal sports betting surges, so do Americans' financial problems
+Дата: 4 hours ago
+
+Новость 25
+Заголовок: A new gene therapy is giving people born deaf the chance to hear
+Дата: 2 hours ago
+
+Новость 26
+Заголовок: The most-disliked people in the publishing industry
+Дата: 12 hours ago
+
+Новость 27
+Заголовок: German men 18-45 need military permit for extended stays abroad
+Дата: 4 hours ago
+
+Новость 28
+Заголовок: OpenClaw privilege escalation vulnerability
+Дата: 1 day ago
+
+Новость 29
+Заголовок: IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf]
+Дата: 2 hours ago
+
+Новость 30
+Заголовок: iNaturalist
+Дата: 1 day ago
+
