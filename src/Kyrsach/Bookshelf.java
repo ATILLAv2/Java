@@ -70,7 +70,6 @@ public class Bookshelf {
 
         private List<String> findAllChars(char targetChar) {
             List<String> results = new ArrayList<>();
-
             char searchChar = Character.toLowerCase(targetChar);
 
             for (int pos = 0; pos < fullText.length(); pos++) {
@@ -90,10 +89,8 @@ public class Bookshelf {
 
             for (int i = 0; i < text.length(); i++) {
                 char c = text.charAt(i);
-
                 if (Character.isLetter(c)) {
                     List<String> allCords = findAllChars(c);
-
                     if (!allCords.isEmpty()) {
                         String cord = allCords.get(random.nextInt(allCords.size()));
                         result.append(cord);
@@ -103,7 +100,6 @@ public class Bookshelf {
                 } else {
                     result.append(c);
                 }
-
                 if (i < text.length() - 1) {
                     result.append(" ");
                 }
@@ -117,10 +113,8 @@ public class Bookshelf {
 
             for (String part : parts) {
                 String cleanPart = part.replace("[", "").replace("]", "");
-
                 if (cleanPart.contains(".")) {
                     String[] cords = cleanPart.split("\\.");
-
                     if (cords.length == 3) {
                         try {
                             int page = Integer.parseInt(cords[0]);

@@ -58,7 +58,6 @@ public class Scytale {
                     index++;
                 }
             }
-
             StringBuilder result = new StringBuilder();
             for (int col = 0; col < columns; col++) {
                 for (int row = 0; row < diameter; row++) {
@@ -72,7 +71,6 @@ public class Scytale {
 
         public static String decrypt(String cipherText, int diameter) {
             int cipherLength = cipherText.length();
-
             int columns = (int) Math.ceil((double) cipherLength / diameter);
 
             char[][] matrix = new char[diameter][columns];
@@ -94,7 +92,6 @@ public class Scytale {
                     }
                 }
             }
-
             StringBuilder result = new StringBuilder();
             for (int row = 0; row < diameter; row++) {
                 for (int col = 0; col < columns; col++) {

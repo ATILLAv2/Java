@@ -31,24 +31,21 @@ public class Caesar {
     }
 
     public static class CaesarCipher {
-
-        private static final String ALPHABET = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
-        private static final String ALPHABET_LOWER = ALPHABET.toLowerCase();
+        private static final String alph = "АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ";
+        private static final String alph_low = alph.toLowerCase();
 
         private static String encrypt(String text, int shift) {
             if (text == null || text.isEmpty()) {
                 return text;
             }
-
             StringBuilder result = new StringBuilder();
-            shift = shift % ALPHABET.length();
+            shift = shift % alph.length();
 
             for (int i = 0; i < text.length(); i++) {
                 char currentChar = text.charAt(i);
                 char encryptedChar = shiftChar(currentChar, shift);
                 result.append(encryptedChar);
             }
-
             return result.toString();
         }
 
@@ -56,39 +53,36 @@ public class Caesar {
             if (text == null || text.isEmpty()) {
                 return text;
             }
-
             StringBuilder result = new StringBuilder();
-            shift = shift % ALPHABET.length();
+            shift = shift % alph.length();
 
             for (int i = 0; i < text.length(); i++) {
                 char currentChar = text.charAt(i);
                 char decryptedChar = shiftChar(currentChar, -shift);
                 result.append(decryptedChar);
             }
-
             return result.toString();
         }
 
         private static char shiftChar(char c, int shift) {
             int index;
-
             if (Character.isUpperCase(c)) {
-                    index = ALPHABET.indexOf(c);
+                    index = alph.indexOf(c);
                     if (index != -1) {
-                        int newIndex = (index + shift) % ALPHABET.length();
+                        int newIndex = (index + shift) % alph.length();
                         if (newIndex < 0) {
-                            newIndex += ALPHABET.length();
+                            newIndex += alph.length();
                         }
-                        return ALPHABET.charAt(newIndex);
+                        return alph.charAt(newIndex);
                     }
                 } else if (Character.isLowerCase(c)) {
-                    index = ALPHABET_LOWER.indexOf(c);
+                    index = alph_low.indexOf(c);
                     if (index != -1) {
-                        int newIndex = (index + shift) % ALPHABET.length();
+                        int newIndex = (index + shift) % alph.length();
                         if (newIndex < 0) {
-                            newIndex += ALPHABET.length();
+                            newIndex += alph.length();
                         }
-                        return ALPHABET_LOWER.charAt(newIndex);
+                        return alph_low.charAt(newIndex);
                     }
                 }
             return c;
